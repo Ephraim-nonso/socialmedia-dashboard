@@ -10,6 +10,11 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
 .main-container {
     margin: 0 100px;
     display: grid;
